@@ -1,0 +1,6 @@
+{
+  "name": "Gmail Promotions & Spam Cleaner",
+  "description": "Scan, organize, filter, and safely delete promotional and spam emails from your Gmail inbox with explicit user approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
